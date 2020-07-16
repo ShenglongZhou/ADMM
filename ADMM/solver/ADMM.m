@@ -20,7 +20,7 @@ function [Sigma, time] = ADMM(Sigman,opts)
 % S. Zhou, N. Xiu, Z. Luo and L. Kong, (2015),
 % Sparse and Low-Rank Covariance Matrix Estimation, 
 % Journal of the Operations Research Society of China, 3(2): 231-250.
-% Send your comments and suggestions to  <<<longnan_zsl@163.com >>>                                      %%%%%% 
+% Send your comments and suggestions to  <<<longnan_zsl@163.com >>>   
 % Warning: Accuracy may not be guaranteed !!!!!  
 % -------------------------------------------------------------------------
 
